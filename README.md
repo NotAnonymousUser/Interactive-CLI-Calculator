@@ -59,6 +59,12 @@ What operation would you like to perform?
 The result is: 50
 ```
 
+![1](https://github.com/NotAnonymousUser/Interactive-CLI-Calculator/assets/125754246/f77619e5-e7d5-4fce-bd96-ca9bb0083624)
+
+![2](https://github.com/NotAnonymousUser/Interactive-CLI-Calculator/assets/125754246/a3bff830-f11f-48eb-8a6d-f2db570428a8)
+
+
+
 **Contributing:**
 
 We welcome contributions to this project! Feel free to:
