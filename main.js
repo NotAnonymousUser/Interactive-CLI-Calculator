@@ -1,12 +1,12 @@
 import inquirer from "inquirer";
 const num1 = await inquirer.prompt({
     name: "number1",
-    type: "input",
+    type: "number",
     message: "Enter first number",
 });
 const num2 = await inquirer.prompt({
     name: "number2",
-    type: "input",
+    type: "number",
     message: "Enter second number",
 });
 const question = await inquirer.prompt({
