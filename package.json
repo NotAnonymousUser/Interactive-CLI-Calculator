@@ -1,7 +1,7 @@
 {
   "name": "node-cli-calculator",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "updated SHABANG",
   "main": "main.js",
   "type": "module",
   "bin": "main.js",
