@@ -25,7 +25,7 @@ This project offers a user-friendly command-line interface (CLI) calculator powe
 2. **Install Dependencies:** Navigate to the cloned project directory and run the following command to install required packages:
 
    ```bash
-   npm install inquirer
+   npm i @types/node -D
    ```
 
 **Usage:**
@@ -33,7 +33,7 @@ This project offers a user-friendly command-line interface (CLI) calculator powe
 1. **Run the Script:** Open your terminal or command prompt and navigate to the project directory. Then, execute the following command to start the calculator:
 
    ```bash
-   node main.js
+   npx node-cli-calculator
    ```
 
 2. **Enter Numbers:** The script will prompt you to enter two numbers using Inquirer. Type the first number and press Enter, then enter the second number and press Enter again.
